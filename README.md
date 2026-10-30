@@ -104,7 +104,7 @@ Live log streaming and direct SIEM integration are outside the initial implement
 
 
 9. Contributors
-Academic Group Project – Team of Two
+Academic Group Project – Team of Two.
 
 Nupur Khade - 2601098
 
